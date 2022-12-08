@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {}
+    "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {
+    "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\albnb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albnb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,13 +38,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
