@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {}
+    "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {
+    "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\albnb\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\albnb\\Code\\matc\\itdev162\\albin-berisha-p2\\ZenDatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albnb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,8 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
             },
