@@ -1,3 +1,4 @@
+using System;
 using API.Data;
 using API.Entities;
 using Microsoft.AspNetCore.Authorization;
@@ -27,7 +28,7 @@ namespace API.Controllers
 
             if (thing == null) return NotFound();
 
-            return thing;
+            return Ok(thing);
         }
 
         [HttpGet("server-error")]
@@ -43,7 +44,7 @@ namespace API.Controllers
         [HttpGet("bad-request")]
         public ActionResult<string> GetBadRequest()
         {
-            return BadRequest("This was not a good request");
+            return BadRequest();
         }
     }
 }
