@@ -10,7 +10,7 @@
   * Using Entity Framework Core
   * Using Angular(v6)
   * Using Postman for API testing
-  * Implement drag and drog photo upload
+  * Implement drag and drop photo upload 
   * Using Claudinary to upload images
   
   
