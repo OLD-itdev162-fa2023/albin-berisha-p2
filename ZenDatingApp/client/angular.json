@@ -41,7 +41,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "optimization": false,
+              "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
               "extractCss": true,
@@ -131,8 +131,5 @@
       }
     }
   },
-  "defaultProject": "client",
-  "cli": {
-    "analytics": "4c5429d3-7257-4e9f-a847-620e7a2cff1d"
-  }
+  "defaultProject": "client"
 }
