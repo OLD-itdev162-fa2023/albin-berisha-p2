@@ -33,9 +33,29 @@ The Zen Dating Application shows the possible "Matches" for the user.
 
 ![zen](https://user-images.githubusercontent.com/64111694/208338781-e0ceccf4-fff0-48f8-bda8-975ef8d4f6c5.JPG)
 
+### The User can edit his/her profile and add photos to the Zen Dating App. The user can select the main photo or delete it.
+
+
+![Uploading](https://user-images.githubusercontent.com/64111694/208591217-96e855d7-20f2-4970-a350-d0cc79d3f760.JPG)
+
+![Drop_photos'](https://user-images.githubusercontent.com/64111694/208591223-b04a64bb-c709-4eb0-bedc-916f6cfa7c7e.JPG)
 
 ![zen3](https://user-images.githubusercontent.com/64111694/208186001-0dc75714-ce63-4895-87ec-6ba9bfd595ef.JPG)
 
 Here is an example of how is saved the username Achoostorm and the password on the databse.
 
 ![zen4](https://user-images.githubusercontent.com/64111694/208186009-fbca4801-b6ec-41b7-be1a-c17d80dd2bc0.JPG)
+
+## Postman Test
+
+![postman 11](https://user-images.githubusercontent.com/64111694/208590798-fbe468b0-7925-453c-a601-5ecb435f8b13.JPG)
+
+
+![postman12](https://user-images.githubusercontent.com/64111694/208590836-6388fd44-a2ab-49ea-b9b5-9ef4a062ac60.JPG)
+
+
+![postman 13](https://user-images.githubusercontent.com/64111694/208590870-86cfc431-e821-432e-b047-903ad0491ab9.JPG)
+
+## Claudinary - the cloud-based image and video management services 
+
+![Claudinary](https://user-images.githubusercontent.com/64111694/208591812-c4893b4a-62e8-4e82-905d-4d681600eee3.JPG)
